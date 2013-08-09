@@ -22,3 +22,4 @@ include_recipe "sprout-osx-apps::vagrant"
 
 include_recipe "sprout-osx-apps::virtualbox"
 #include_recipe "pivotal_workstation::workspace_directory"
+include_recipe "sprout-osx-apps::vmware_fusion"

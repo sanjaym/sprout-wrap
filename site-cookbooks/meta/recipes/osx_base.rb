@@ -14,7 +14,7 @@ include_recipe "sprout-osx-apps::firefox"
 include_recipe "sprout-osx-apps::dropbox"
 include_recipe "sprout-osx-apps::chrome"
 include_recipe "pivotal_workstation::sublime_text"
-include_recipe "sprout-osx-apps::sublime_text"
+include_recipe "sprout-osx-apps::sublime_text_3"
 
 include_recipe "sprout-osx-apps::spotify"
 #include_recipe "pivotal_workstation::mouse_locator"

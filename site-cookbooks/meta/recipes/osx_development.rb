@@ -15,7 +15,7 @@
 #include_recipe "pivotal_workstation::workspace_directory"
 
 include_recipe "pivotal_workstation::homebrew"
-include_recipe "pivotal_workstation::unix_essentials"
+#include_recipe "pivotal_workstation::unix_essentials"
 include_recipe "sprout-osx-apps::vagrant"
 include_recipe "sprout-osx-apps::virtualbox"
 include_recipe "sprout-osx-apps::vmware_fusion"

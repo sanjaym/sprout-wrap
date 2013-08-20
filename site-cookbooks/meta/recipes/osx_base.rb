@@ -6,7 +6,7 @@ include_recipe "sprout-osx-apps::skype"
 #include_recipe "pivotal_workstation::shiftit"
 
 include_recipe "sprout-osx-apps::filezilla"
-include_recipe "sprout-osx-apps::cyberduck"
+#include_recipe "sprout-osx-apps::cyberduck"
 
 #include_recipe "pivotal_workstation::inputrc"
 #include_recipe "pivotal_workstation::locate_on"

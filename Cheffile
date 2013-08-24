@@ -24,5 +24,5 @@ cookbook 'osx',
   :path => 'osx'
 
 cookbook 'sprout-osx-apps',
-  :git => 'git://github.com/sanjaym/sprout-wrap.git',
+  :git => 'git://github.com/sanjaym/sprout.git',
   :path => 'sprout-osx-apps'

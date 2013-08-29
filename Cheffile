@@ -1,4 +1,4 @@
- site 'http://community.opscode.com/api/v1'
+site 'http://community.opscode.com/api/v1'
 
 cookbook 'meta',
   :path => 'site-cookbooks/meta'

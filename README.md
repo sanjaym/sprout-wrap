@@ -28,6 +28,8 @@ Prepares a Mac running OS X Mountain Lion for Ruby development using [soloist](h
   
     bundle exec soloist
     
+### NEW ADDITION: just execute kp.sh which is the script below by typing './kp.sh' in the folder you cloned the repo    
+    
 ### OR use this script which does the above, save as filename.sh and execute from terminal > ./filename.sh    
     sudo mkdir -p /opt
     sudo chown -R $USER /opt
